@@ -35,4 +35,5 @@ OpenPaperwork GTK plugins.
 %py_build
 
 %install
+%py_install
 

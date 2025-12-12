@@ -3,7 +3,7 @@
 Summary:	OpenPaperwork GTK plugins
 Name:		python-%{module}
 Version:	2.2.0
-Release:	1
+Release:	2
 License:	GPL-3.0-or-later
 Group:		Development/Python
 URL:		https://pypi.org/project/openpaperwork-gtk/

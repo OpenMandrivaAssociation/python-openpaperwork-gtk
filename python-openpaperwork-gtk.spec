@@ -11,6 +11,8 @@ Source0:	https://pypi.org/packages/source/o/%{module}/%{module}-%{version}.tar.g
 Patch0:		python-openpaperwork-gtk-2.2.0-fix_version_path.patch
 BuildRequires:	pkgconfig(python3)
 BuildRequires:	python%{pyver}dist(pip)
+BuildRequires:	python%{pyver}dist(setuptools)
+BuildRequires:	python%{pyver}dist(wheel)
 BuildRequires:	python%{pyver}dist(pygobject)
 
 Requires:       python%{pyver}dist(pygobject)
